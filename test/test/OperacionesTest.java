@@ -8,6 +8,12 @@ import org.junit.Before;
 import org.junit.BeforeClass;
 import org.junit.Test;
 
+/**Clase de prueba
+ * con JUnit
+ * @author German
+ *
+ */
+
 public class OperacionesTest {
 
 	private Operaciones tester;
@@ -19,7 +25,7 @@ public class OperacionesTest {
 	
 	@BeforeClass
 	public static void iniciar() {
-		System.out.println("Iniciamos las pruebas");
+		System.out.println("Iniciando pruebas...");
 	}
 	
 	@AfterClass

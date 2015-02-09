@@ -1,5 +1,11 @@
 package org;
 
+/**
+ * Clase con operaciones básicas
+ * @author German
+ *
+ */
+
 public class Operaciones {
 
 	public int sumar(int a, int b){
